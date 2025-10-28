@@ -1,4 +1,5 @@
 <p align="center">
+  ## Lambda Online
   Lambda Online is a small project aiming to recreate a Black Mesa experience in Space Station 14, built on top of Starlight.
   We love starlight's systems, and would love to have them integrated in our own server, so go [check them out](https://github.com/ss14Starlight/space-station-14)
 
@@ -6,7 +7,6 @@
 
 ## License
 
-> [!CAUTION]
 > The repository code is licensed both under MIT - this applies to Space Wizards Federation code - and under modified MIT - this applies to our changes.
 
 ### Click each banner for further information
